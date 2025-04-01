@@ -1,0 +1,22 @@
+.todo-filter {
+  display: flex;
+  justify-content: center;
+}
+
+.filter-btn {
+  margin: 3px;
+  padding: 3px 7px;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.filter-btn:hover {
+  border-color: rgba(175, 47, 47, 0.1);
+}
+
+.filter-btn.selected {
+  border-color: rgba(175, 47, 47, 0.2);
+}
+
