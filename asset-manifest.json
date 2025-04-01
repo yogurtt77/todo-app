@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yogurtt77.github.io/todo-app/static/css/main.3f667674.css",
+    "main.js": "/yogurtt77.github.io/todo-app/static/js/main.2621e926.js",
+    "static/js/453.ac79db8d.chunk.js": "/yogurtt77.github.io/todo-app/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/yogurtt77.github.io/todo-app/index.html",
+    "main.3f667674.css.map": "/yogurtt77.github.io/todo-app/static/css/main.3f667674.css.map",
+    "main.2621e926.js.map": "/yogurtt77.github.io/todo-app/static/js/main.2621e926.js.map",
+    "453.ac79db8d.chunk.js.map": "/yogurtt77.github.io/todo-app/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f667674.css",
+    "static/js/main.2621e926.js"
+  ]
+}
